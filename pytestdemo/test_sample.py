@@ -5,8 +5,8 @@ def inc(x):
 
 
 def test_answer():
-    assert inc(3) == 5
+    assert inc(3) == 4
 
 @pytest.mark.login
 def test_answer1():
-    assert inc(3) == 5
+    assert inc(3) == 4
