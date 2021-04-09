@@ -9,4 +9,4 @@ def test_answer():
 
 @pytest.mark.login
 def test_answer1():
-    assert inc(3) == 4
+    assert inc(3) == 5
