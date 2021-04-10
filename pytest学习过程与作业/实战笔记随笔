@@ -46,3 +46,11 @@
     类：setup,teardown  作用：运行在调用方法的前后（在类中）
     方法：setup_function/teardown_function  函数用例生效（不在类中）
     类级：setup_class/teardown_class  作用：只在类中前后运行一次（在类中使用）
+
+
+8. fixture介绍
+    使用场景：当自动化用例在运行时，有的用例需要登录后，才能执行；而有的用例不需要登录，就可以执行；
+    setup和teardown的功能是在没个用例之前都先进行操作，但是呢，并不是所有的用例都需要这样子，于是
+    fixture的功能就是：在有需要的用例，添加优先执行的操作。
+
+9. 安装yaml，及yaml的简单使用，包名称：PyYAML

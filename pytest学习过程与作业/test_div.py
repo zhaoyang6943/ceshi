@@ -3,7 +3,7 @@ import pytest
 import yaml
 
 
-class TestAdd:
+class TestDiv:
 
     def setup_class(self):
         print("我只执行一次开始！----------------------》")
@@ -13,33 +13,37 @@ class TestAdd:
         print("我只执行一次结束！----------------------》")
 
     def setup(self):
-        print("开始计算加法！")
+        print("开始计算除法！")
 
     def teardown(self):
-        print("加法计算结束！")
+        print("除法计算结束！")
 
     @pytest.mark.parametrize('a,b,c',[
-        [1,1,2],
-        [10,10,20],
-        [999999,999999,1999998]
+        [9,1,9.0],
+        [99,33,3.0],
+        [99999999,9,11111111]
     ],ids=['small','medium','large'])
-    def test_add_int(self,a,b,c):
+    def test_div_int(self,a,b,c):
         '''这个是参数化，没有使用yaml'''
-        assert c == self.calc.add(a,b)
+        assert c == self.calc.div(a,b)
 
-    @pytest.mark.parametrize('a,b,c',yaml.safe_load(open("./data_add.yaml")))
-    def test_add_yaml(self,a,b,c):
+    @pytest.mark.parametrize('a,b,c',yaml.safe_load(open("./data_div.yaml")))
+    def test_div_yaml(self,a,b,c):
         '''这个是使用yaml的加法用例'''
         # print(a,b,type(a),type(b))
-        assert c == self.calc.add(a,b)
+        assert c == self.calc.div(a,b)
 
     @pytest.mark.parametrize('b', [5, -5, 0.5, -0.5,0])
     @pytest.mark.parametrize('a', [5, -5, 0.5, -0.5,0])
-    def test_add_cartesian_product (self,a,b):
-        '''笛卡尔积进行加法中，正负数，小数类型的计算，数据很少！'''
-        c = a+b  # 原谅我偷懒....
-        print(c)
-        assert c == self.calc.add(a,b)
+    def test_div_cartesian_product (self,a,b):
+        '''笛卡尔积进行除法中，正负数，小数类型的计算，数据很少！'''
+        try:
+            c = a/b  # 原谅我偷懒....
+            print(c)
+            assert c == self.calc.div(a, b)
+        except ZeroDivisionError:
+            print("0 cannot be divided")
+
 
 """
     # 笛卡尔积：经常用于接口
