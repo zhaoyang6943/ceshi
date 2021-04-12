@@ -10,15 +10,15 @@ import decimal
 class Calculator:
 
     # 相加
-    def add(self,a,b):
+    def add(self, a, b):
         # decimal.getcontext().prec = 10  # 10位限制
         # c = decimal.Decimal(a)+decimal.Decimal(b)
         # d = remove_exponent(c)
 
-        return a+b
+        return a + b
 
     # 相除
-    def div(self,a,b):
+    def div(self, a, b):
         # print(type(a/b))
         try:
             return a / b
@@ -26,9 +26,7 @@ class Calculator:
             return "0 cannot be divided"
 
 
-
 if __name__ == '__main__':
-
     # print(Calculator().add(1.11111, 2.00000000))
     # print(Calculator().add(-0.11111, -2.00000000))
     # print(Calculator().add(1, 4))
