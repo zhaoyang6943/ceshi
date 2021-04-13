@@ -3,6 +3,18 @@ import pytest
 import yaml
 
 
+def get_div_datas():
+    try:
+        with open("./datas/data_div.yaml", encoding='utf-8')as f:
+            datas = yaml.safe_load(f)
+            return datas
+            # safe_load(stram),传入的是文件流，所以将打开的yam文件流传入；
+            # 目的就是将yam对象，转化为python对象
+    except FileNotFoundError:
+        with open("../datas/data_div.yaml", encoding='utf-8')as f:
+            datas = yaml.safe_load(f)
+            return datas
+
 class TestDiv:
 
     def setup_class(self):
@@ -27,7 +39,7 @@ class TestDiv:
         '''这个是参数化，没有使用yaml'''
         assert c == self.calc.div(a, b)
 
-    @pytest.mark.parametrize('a,b,c', yaml.safe_load(open("../datas/data_div.yaml")))
+    @pytest.mark.parametrize('a,b,c', get_div_datas())
     def test_div_yaml(self, a, b, c):
         '''这个是使用yaml的除法法用例'''
         assert c == self.calc.div(a, b)

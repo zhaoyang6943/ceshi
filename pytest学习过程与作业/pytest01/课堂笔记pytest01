@@ -26,7 +26,7 @@
 
 5. pytest的命令行参数
 
-    常用参数：
+    常用参数：（ps：windows下用双引号执行命令！）
     pytest --collect-only 只收集用例，看到收集的顺序，意味着我知道用例执行的顺序
     pytest -k “add ” 匹配所有名称中包含add的用例（‘add or div’ ‘TestClass’）
     pytest -m mark标签名 -vs   标记,-v详细记录用例执行结果  -s 打印有打印的地方

@@ -17,10 +17,10 @@ int_datas:
 
 # int_ids要和int_datas里面的数据数量一致！数据是一个，ids也是一个；数据是多个，ids也是多个；
 int_ids:
-    - "small_int"
-    - "medium_int1"
-    - "medium_int2"
-    - "large_int"
+    - "整数01"
+    - "整数02"
+    - "整数03"
+    - "整数04"
 
 
 # 小数
@@ -38,9 +38,9 @@ float_datas:
 
 # 小数的ids，一定要注意数据的格式(ps:ids只有一个数据，int是有三个数据的，所以int用列表；ids直接写就行)
 float_ids:
-    - "float01"
-    - "float02"
-    - "float03"
+    - "浮点数01"
+    - "浮点数02"
+    - "浮点数03"
 
 
 # 负数
@@ -64,7 +64,7 @@ negative_datas:
 
 
 negative_ids:
-  - "01"
-  - "02"
-  - "03"
-  - "04"
+  - "负数01"
+  - "负数02"
+  - "负数03"
+  - "负数04"

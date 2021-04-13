@@ -3,17 +3,31 @@ import pytest
 import yaml
 
 
+
 def get_add_datas():
-    with open("../datas/data_add.yaml", encoding='utf-8')as f:
-        datas = yaml.safe_load(f)
-        return datas
-        # safe_load(stram),传入的是文件流，所以将打开的yam文件流传入；
-        # 目的就是将yam对象，转化为python对象
+    try:
+        with open("./datas/data_add.yaml", encoding='utf-8')as f:
+            datas = yaml.safe_load(f)
+            return datas
+            # safe_load(stram),传入的是文件流，所以将打开的yam文件流传入；
+            # 目的就是将yam对象，转化为python对象
+    except FileNotFoundError:
+        with open("../datas/data_add.yaml", encoding='utf-8')as f:
+            datas = yaml.safe_load(f)
+            return datas
 
 
 def test_getdatas():
-    with open("../datas/data_add.yaml", encoding='utf-8') as f:
-        datas = yaml.safe_load(f)
+    try:
+        with open("./datas/data_add.yaml", encoding='utf-8')as f:
+            datas = yaml.safe_load(f)
+            return datas
+            # safe_load(stram),传入的是文件流，所以将打开的yam文件流传入；
+            # 目的就是将yam对象，转化为python对象
+    except FileNotFoundError:
+        with open("../datas/data_add.yaml", encoding='utf-8')as f:
+            datas = yaml.safe_load(f)
+            return datas
 
     print(datas)
 
@@ -48,14 +62,13 @@ class TestAdd:
 
         assert c == self.calc.add(a, b)
 
-    @pytest.mark.parametrize('a,b,c',get_add_datas()['float_datas'],ids=get_add_datas()['float_ids'])
-    def test_add_float(self,a,b,c):
-        assert c == self.calc.add(a,b)
+    @pytest.mark.parametrize('a,b,c', get_add_datas()['float_datas'], ids=get_add_datas()['float_ids'])
+    def test_add_float(self, a, b, c):
+        assert c == self.calc.add(a, b)
 
-    @pytest.mark.parametrize('a,b,c',get_add_datas()['negative_datas'],ids=get_add_datas()['negative_ids'])
-    def test_add_negative(self,a,b,c):
-        assert c == self.calc.add(a,b)
-
+    @pytest.mark.parametrize('a,b,c', get_add_datas()['negative_datas'], ids=get_add_datas()['negative_ids'])
+    def test_add_negative(self, a, b, c):
+        assert c == self.calc.add(a, b)
 
     @pytest.mark.parametrize('b', [5, -5, 0.5, -0.5, 0])
     @pytest.mark.parametrize('a', [5, -5, 0.5, -0.5, 0])
