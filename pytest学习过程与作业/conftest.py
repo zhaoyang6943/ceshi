@@ -1,13 +1,11 @@
 # 默认级别是session级别，放入公共模块下
 import pytest
 
-# from test_div import get_div_datas_calc
 import yaml
 
 try:
     from pytest学习过程与作业.pytest01.Calculator import Calculator
     from pytest学习过程与作业.pytest01.test_add import get_add_datas
-
 except ImportError:
     from pytest01.Calculator import Calculator
     from pytest01.test_add import get_add_datas
@@ -88,7 +86,7 @@ def get_add_datas2(request):
 # pytest --collect-only：只收集用例，看到收集的顺序，意味着我知道用例执行的顺序
 def pytest_collection_modifyitems(session, config, items: list):
     # print("这是收集所有测试用例的方法")
-    print(items)
+    # print(items)
     # items.reverse()  # 这是自己定义的顺序，需要去掉test_的执行顺序的装饰器，才能体现出来！
     # 改写编码集，用例中本来是不支持中文的，通过改写，就可以达到编码改写的目的
     for item in items:
@@ -112,6 +110,7 @@ def get_add_datas_float(request):
 @pytest.fixture(params=get_add_datas()['negative_datas'], ids=get_add_datas()['negative_ids'])
 def get_add_datas_negative(request):
     return request.param
+
 
 # 给除法提供函数调用取值的功能
 def get_div_datas_calc():
@@ -138,10 +137,12 @@ def get_div_datas_int(request):
 def get_div_datas_float(request):
     return request.param
 
+
 # 作业，相除，负数取值数据
 @pytest.fixture(params=get_div_datas_calc()['negative_datas'], ids=get_div_datas_calc()['negative_ids'])
 def get_div_datas_negative(request):
     return request.param
+
 
 # 作业，相除，除数为零取值数据
 @pytest.fixture(params=get_div_datas_calc()['zero'], ids=get_div_datas_calc()['zero_ids'])

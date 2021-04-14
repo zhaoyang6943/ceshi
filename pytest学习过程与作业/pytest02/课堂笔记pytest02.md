@@ -147,20 +147,93 @@ windows安装，
 
 #### 9. allure使用
 
-1. pytest --alluredir ./result
+1. pytest --alluredir ./result --clean-alluredir
 
-   在当前路径下生成测试报告数据
+   在当前路径下生成测试报告数据，并将之前的删除
 
 2. allure serve ./result
 
    在生成测试数据的基础上形成报告
+   
+3. pytest --alluredir ./result --clean-alluredir
+
+   清楚文件夹内内容信息
+
+4. pytest --allure-features  "计算器"
+
+   将class中@allure.fixture("计算器")的用例删选出来
+
+   例子：pytest --allure-features "计算器" --alluredir ./result --clean-alluredir
+
+   效果：将报告只展示计算器相关的用例
+
+5. pytest --allure-stories "相加-整数" --alluredir ./result --clean-alluredir
+
+   将名字是“相加-整数”的用例筛选出来，并展示在测试报告中
+
+6. allure generate ./result
+
+   将最终测试报告生成
+
+   参数 -o；可以指定文件夹路径
+
+7. 介绍feature、story、step、severity
+
+```python
+@allure.severity(allure.severity_level.NORMAL)
+@allure.feature("计算器")
+class TestCacl:    
+    @allure.severity(allure.severity_level.NORMAL)    
+    @pytest.mark.run(order=7)    
+    @allure.story("相加-整数")    
+    def test_add_int(self, get_add_datas2, initcalc_class):        
+        with allure.step("执行相加用例"):            
+            print("执行相加用例-print")        
+            assert get_add_datas2[2] == initcalc_class.add(get_add_datas2[0], get_add_datas2[1])        
+            with allure.step("执行相加结束"):            
+                print("执行相加结束-print")
+```
+
+命令行执行：pytest  文件名  --allure-severities="normal" -vs
+
+就是将normal的用例执行，可以用来执行不同程度的用例，比如冒烟！冒烟级别可以定位normal以上
+
+![1618385650650](C:\Users\八块腹肌\AppData\Roaming\Typora\typora-user-images\1618385650650.png)
+
+8. allure的title
+
+   ![1618387748081](C:\Users\八块腹肌\AppData\Roaming\Typora\typora-user-images\1618387748081.png)
 
 
 
-#### 10. python模板配置
-
-![1618319773360](C:\Users\八块腹肌\AppData\Roaming\Typora\typora-user-images\1618319773360.png)
+9. allure的文本、截图，视频，代码块
 
 
 
-#### 11. 
+10. allure打开本地服务，打开自己的html报告
+
+    allure open -h 本机IP -p 指定端口 ./report/
+
+    
+
+
+
+#### 10. python模板配置![1618319773360](C:\Users\八块腹肌\AppData\Roaming\Typora\typora-user-images\1618319773360.png)
+
+
+
+#### 11. 配置文件
+
+```ini
+addopts = -vs  --alluredir=./result  --clean-alluredir
+```
+
+默认执行pytest时，打印具体执行信息
+
+
+
+
+
+#### 12. windows下，--help，进行删选
+
+pytest --help | findstr allure

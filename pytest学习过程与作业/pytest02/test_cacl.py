@@ -14,20 +14,29 @@ import pytest
 生成测试 报告截图
 """
 
-
+@allure.title("计算机测试用例")
+@allure.severity(allure.severity_level.NORMAL)
 @allure.feature("计算器")
 class TestCacl:
 
+    @allure.title("整数相加测试")
+    @allure.severity(allure.severity_level.NORMAL)
     @pytest.mark.run(order=7)
     @allure.story("相加-整数")
     def test_add_int(self, get_add_datas2, initcalc_class):
+        with allure.step("执行相加用例"):
+            print("执行相加用例-print")
         assert get_add_datas2[2] == initcalc_class.add(get_add_datas2[0], get_add_datas2[1])
+        with allure.step("执行相加结束"):
+            print("执行相加结束-print")
 
+    @allure.severity(allure.severity_level.CRITICAL)
     @pytest.mark.run(order=6)
     @allure.story("相加-浮点数")
     def test_add_float(self, get_add_datas_float, initcalc_class):
         assert get_add_datas_float[2] == initcalc_class.add(get_add_datas_float[0], get_add_datas_float[1])
 
+    @allure.severity(allure.severity_level.NORMAL)
     @pytest.mark.run(order=5)
     @allure.story("相加-负数")
     def test_add_negative(self, get_add_datas_negative, initcalc_class):

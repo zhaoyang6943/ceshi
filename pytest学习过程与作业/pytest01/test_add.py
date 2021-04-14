@@ -54,6 +54,7 @@ class TestAdd:
     ], ids=['small', 'medium', 'large'])
     def test_add_int01(self, a, b, c):
         '''这个是参数化，没有使用yaml'''
+        print("wwws是加法")
         assert c == self.calc.add(a, b)
 
     @pytest.mark.parametrize('a,b,c', get_add_datas()['int_datas'], ids=get_add_datas()['int_ids'])
