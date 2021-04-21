@@ -10,6 +10,7 @@ class BasePage:
     """
     把页面重复的步骤抽离出来，封装，比如driver 的实例化
     """
+
     # 没有参数传入，  会取默认None ， 如果有参数传入， 会取传入的参数
     def __init__(self, base_driver=None):
         # _init__ 里面是不允许使用return方法的
@@ -19,9 +20,10 @@ class BasePage:
         if base_driver == None:
             # 实例化 driver
             self.driver = webdriver.Chrome()
+            self.driver.maximize_window()
             # 访问 扫码登录页面
             self.driver.get("https://work.weixin.qq.com/wework_admin/loginpage_wx?")
-            with open("data.yaml", encoding="UTF-8") as f:
+            with open("../datas/data.yaml", encoding="UTF-8") as f:
                 yaml_data = yaml.safe_load(f)
                 for cookie in yaml_data:
                     self.driver.add_cookie(cookie)
@@ -32,3 +34,20 @@ class BasePage:
             self.driver.implicitly_wait(5)
         else:
             self.driver = base_driver
+
+    def find(self, by, ele=None):
+        """
+        目的：解决大量的样板代码，driver，find，click
+        :param by:
+        :param ele:
+        :return:
+        """
+        # 两种传入定位元素的方式，提高代码的兼容性
+        # 如果传入的是元组，那就只有一个参数
+        if ele == None:
+            # 比如传入 (By.ID,"username")
+            # * 的作用是， 解元组  self.driver.find_element(*username) 等同于
+            # self.driver.find_element(By.ID,"username")
+            return self.driver.find_element(*by)
+        else:
+            return self.driver.find_element(by, ele)
