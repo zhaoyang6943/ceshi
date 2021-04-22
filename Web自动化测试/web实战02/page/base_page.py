@@ -29,7 +29,7 @@ class BasePage:
                     self.driver.add_cookie(cookie)
 
             # 访问通讯录页面
-            self.driver.get("https://work.weixin.qq.com/wework_admin/frame#contacts")
+            self.driver.get("https://work.weixin.qq.com/wework_admin/frame#index")
             # 隐式等待，在5秒内轮询查找元素是否存在
             self.driver.implicitly_wait(5)
         else:
