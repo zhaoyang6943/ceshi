@@ -1,0 +1,16 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+participant 首页 as Index
+participant 通讯录页面 as ContactList
+participant 选择添加成员方式页面 as SelectAddMembers
+participant 手动输入添加的编辑页面 as EditMember
+
+
+Index -> ContactList: 点击[通讯录]，\n进入[通讯录页面]
+ContactList -> SelectAddMembers:点击[添加成员]，\n进入[选择添加成员方式页面]
+SelectAddMembers -> EditMember:点击[手动输入添加]，\n进入[手动输入添加的编辑页面]
+
+EditMember --> SelectAddMembers:填写完信息，点击保存，\n回到[选择添加成员方式页面]\n并有2s框提示，添加成功
+
+@enduml
