@@ -5,12 +5,19 @@ participant 首页 as Index
 participant 通讯录页面 as ContactList
 participant 选择添加成员方式页面 as SelectAddMembers
 participant 手动输入添加的编辑页面 as EditMember
-
+participant 个人信息页面 as PersonalDetails
+participant 个人备注页面 as Remarks
+participant 删除人员页面 as RemovePersonnel
 
 Index -> ContactList: 点击[通讯录]，\n进入[通讯录页面]
 ContactList -> SelectAddMembers:点击[添加成员]，\n进入[选择添加成员方式页面]
 SelectAddMembers -> EditMember:点击[手动输入添加]，\n进入[手动输入添加的编辑页面]
 
 EditMember --> SelectAddMembers:填写完信息，点击保存，\n回到[选择添加成员方式页面]\n并有2s框提示，添加成功
+
+ContactList  --> PersonalDetails:点击[“第一个人员”]，\n进入个人信息页面
+PersonalDetails --> Remarks:点击[“三个点”]，\n进入个人备注页面
+Remarks --> RemovePersonnel:点击[删除成员]，\n删除时弹出确认删除框\n选择确定删除
+
 
 @enduml
