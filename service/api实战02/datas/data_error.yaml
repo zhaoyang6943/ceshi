@@ -1,0 +1,11 @@
+# 增加失败数据
+add_error:
+    - ["lisi","李四test","+86 13800000011","mobile existed"]
+    - ["","李四test","+86 13800000011","userid exceed min length"]
+    - ["lisi","","+86 13800000011","name exceed min utf8 words"]
+    - ["lisi","李四test","","missing mobile or email"]
+error:
+  - "账户已经存在，重复添加"
+  - "缺少userid"
+  - "缺少name"
+  - "缺少电话号码"

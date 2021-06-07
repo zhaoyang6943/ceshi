@@ -1,0 +1,3085 @@
+2021-06-04 22:28:19,572 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "ws7otDyhBcut24FHaCnfpU8WbQmm4fyBLVrTefRuT1_Jo-esFOIJt3gYmAtAwRxY-jo8cK-x44xxXyE6qpRHtLVuqTtmv_AFaWmemh-0d61HoF9eqel2cJBuw93qkJUkcvmgoFFpNskmMNDodGoTKJbHI8D7cL8Y_7cKjpuahAAmsDY6ySDokxWU_SpP_suEcygjK2_BbiscirDZm8y29g",
+  "expires_in": 7200
+}
+2021-06-04 22:28:19,807 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA8tH7iXKjjdRUI7DDH_JU6g",
+      "group_name": "tag_group_052001",
+      "create_time": 1622638063,
+      "tag": [
+        {
+          "id": "etF-5ACAAAbWV919n-90llDsgpRSAYzg",
+          "name": "tag_052002",
+          "create_time": 1622638063,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAut2Hgu7hiwAxJWWl-CMAmA",
+      "group_name": "tag_group_052002",
+      "create_time": 1622638064,
+      "tag": [
+        {
+          "id": "etF-5ACAAAop6E_lewiQ4t68rAnpaMWA",
+          "name": "tag_052003",
+          "create_time": 1622638064,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAEBt8CPUXJ8hc668HDfvfNQ",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622638064,
+      "tag": [
+        {
+          "id": "etF-5ACAAAqbF8AQvKJcei7d6lEFqldA",
+          "name": "tag_0602001",
+          "create_time": 1622638064,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAeEVoGBVfE2FvbHJtrnOojw",
+          "name": "tag_0602002",
+          "create_time": 1622638064,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAASVpWgz4H9f8ZDL7NCBt93A",
+          "name": "tag_0602003",
+          "create_time": 1622638064,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:28:20,105 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-06-04 22:28:20,332 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": []
+}
+2021-06-04 22:28:20,582 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAA8s6YgNfvHyvkXbmguSymnw",
+    "group_name": "tag_group_052001",
+    "create_time": 1622816899,
+    "tag": [
+      {
+        "id": "etF-5ACAAAk3nUIqQi-BYVIHkrGcljxw",
+        "name": "tag_052002",
+        "create_time": 1622816899,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:28:20,777 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA8s6YgNfvHyvkXbmguSymnw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622816899,
+      "tag": [
+        {
+          "id": "etF-5ACAAAk3nUIqQi-BYVIHkrGcljxw",
+          "name": "tag_052002",
+          "create_time": 1622816899,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:28:21,335 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAA1XuyP1WbspX5Zv-npAGU1w",
+    "group_name": "tag_group_052002",
+    "create_time": 1622816900,
+    "tag": [
+      {
+        "id": "etF-5ACAAAE9nMEodwCKe7bkNK59iamg",
+        "name": "tag_052003",
+        "create_time": 1622816900,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:28:21,533 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA8s6YgNfvHyvkXbmguSymnw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622816899,
+      "tag": [
+        {
+          "id": "etF-5ACAAAk3nUIqQi-BYVIHkrGcljxw",
+          "name": "tag_052002",
+          "create_time": 1622816899,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA1XuyP1WbspX5Zv-npAGU1w",
+      "group_name": "tag_group_052002",
+      "create_time": 1622816900,
+      "tag": [
+        {
+          "id": "etF-5ACAAAE9nMEodwCKe7bkNK59iamg",
+          "name": "tag_052003",
+          "create_time": 1622816900,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:28:21,766 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAA75-QiJ1Cx9w1HmSf-1Zdw",
+    "group_name": "tag_group_0602001",
+    "create_time": 1622816901,
+    "tag": [
+      {
+        "id": "etF-5ACAAAeiAQ5LjC6cZFqvKyNhvp8w",
+        "name": "tag_0602001",
+        "create_time": 1622816901,
+        "order": 2
+      },
+      {
+        "id": "etF-5ACAAAtBLQ8zpIx9XHMqT1mHVmlA",
+        "name": "tag_0602002",
+        "create_time": 1622816901,
+        "order": 1
+      },
+      {
+        "id": "etF-5ACAAAD3ApGBJXBewHHK8aqCslKg",
+        "name": "tag_0602003",
+        "create_time": 1622816901,
+        "order": 3
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:28:21,965 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA8s6YgNfvHyvkXbmguSymnw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622816899,
+      "tag": [
+        {
+          "id": "etF-5ACAAAk3nUIqQi-BYVIHkrGcljxw",
+          "name": "tag_052002",
+          "create_time": 1622816899,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA1XuyP1WbspX5Zv-npAGU1w",
+      "group_name": "tag_group_052002",
+      "create_time": 1622816900,
+      "tag": [
+        {
+          "id": "etF-5ACAAAE9nMEodwCKe7bkNK59iamg",
+          "name": "tag_052003",
+          "create_time": 1622816900,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAA75-QiJ1Cx9w1HmSf-1Zdw",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622816901,
+      "tag": [
+        {
+          "id": "etF-5ACAAAeiAQ5LjC6cZFqvKyNhvp8w",
+          "name": "tag_0602001",
+          "create_time": 1622816901,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAtBLQ8zpIx9XHMqT1mHVmlA",
+          "name": "tag_0602002",
+          "create_time": 1622816901,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAD3ApGBJXBewHHK8aqCslKg",
+          "name": "tag_0602003",
+          "create_time": 1622816901,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:28:22,241 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAcY2jQH6TSzp5RMFp7g8sAg",
+    "group_name": "tag_group_0602011",
+    "create_time": 1622816901,
+    "tag": [
+      {
+        "id": "etF-5ACAAAEsEbeHVZIZlmW-5uB01liA",
+        "name": "tag_0602011",
+        "create_time": 1622816901,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:28:22,446 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA8s6YgNfvHyvkXbmguSymnw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622816899,
+      "tag": [
+        {
+          "id": "etF-5ACAAAk3nUIqQi-BYVIHkrGcljxw",
+          "name": "tag_052002",
+          "create_time": 1622816899,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA1XuyP1WbspX5Zv-npAGU1w",
+      "group_name": "tag_group_052002",
+      "create_time": 1622816900,
+      "tag": [
+        {
+          "id": "etF-5ACAAAE9nMEodwCKe7bkNK59iamg",
+          "name": "tag_052003",
+          "create_time": 1622816900,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAA75-QiJ1Cx9w1HmSf-1Zdw",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622816901,
+      "tag": [
+        {
+          "id": "etF-5ACAAAeiAQ5LjC6cZFqvKyNhvp8w",
+          "name": "tag_0602001",
+          "create_time": 1622816901,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAtBLQ8zpIx9XHMqT1mHVmlA",
+          "name": "tag_0602002",
+          "create_time": 1622816901,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAD3ApGBJXBewHHK8aqCslKg",
+          "name": "tag_0602003",
+          "create_time": 1622816901,
+          "order": 3
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAcY2jQH6TSzp5RMFp7g8sAg",
+      "group_name": "tag_group_0602011",
+      "create_time": 1622816901,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEsEbeHVZIZlmW-5uB01liA",
+          "name": "tag_0602011",
+          "create_time": 1622816901,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:28:22,717 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok. Warning: wrong json format. "
+}
+2021-06-04 22:28:22,929 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA8s6YgNfvHyvkXbmguSymnw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622816899,
+      "tag": [
+        {
+          "id": "etF-5ACAAAk3nUIqQi-BYVIHkrGcljxw",
+          "name": "tag_052002",
+          "create_time": 1622816899,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA1XuyP1WbspX5Zv-npAGU1w",
+      "group_name": "tag_group_052002",
+      "create_time": 1622816900,
+      "tag": [
+        {
+          "id": "etF-5ACAAAE9nMEodwCKe7bkNK59iamg",
+          "name": "tag_052003",
+          "create_time": 1622816900,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAA75-QiJ1Cx9w1HmSf-1Zdw",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622816901,
+      "tag": [
+        {
+          "id": "etF-5ACAAAeiAQ5LjC6cZFqvKyNhvp8w",
+          "name": "tag_0602001",
+          "create_time": 1622816901,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAtBLQ8zpIx9XHMqT1mHVmlA",
+          "name": "tag_0602002",
+          "create_time": 1622816901,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAD3ApGBJXBewHHK8aqCslKg",
+          "name": "tag_0602003",
+          "create_time": 1622816901,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:28:23,144 - base_api.py - INFO - {
+  "errcode": 40068,
+  "errmsg": "invalid tagid, hint: [1622816902_205_5491b8f519998ae4a89d307f9538dcff], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=40068"
+}
+2021-06-04 22:32:21,172 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:21,172 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "ws7otDyhBcut24FHaCnfpU8WbQmm4fyBLVrTefRuT1_Jo-esFOIJt3gYmAtAwRxY-jo8cK-x44xxXyE6qpRHtLVuqTtmv_AFaWmemh-0d61HoF9eqel2cJBuw93qkJUkcvmgoFFpNskmMNDodGoTKJbHI8D7cL8Y_7cKjpuahAAmsDY6ySDokxWU_SpP_suEcygjK2_BbiscirDZm8y29g",
+  "expires_in": 7200
+}
+2021-06-04 22:32:21,368 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:21,369 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA8s6YgNfvHyvkXbmguSymnw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622816899,
+      "tag": [
+        {
+          "id": "etF-5ACAAAk3nUIqQi-BYVIHkrGcljxw",
+          "name": "tag_052002",
+          "create_time": 1622816899,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA1XuyP1WbspX5Zv-npAGU1w",
+      "group_name": "tag_group_052002",
+      "create_time": 1622816900,
+      "tag": [
+        {
+          "id": "etF-5ACAAAE9nMEodwCKe7bkNK59iamg",
+          "name": "tag_052003",
+          "create_time": 1622816900,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAA75-QiJ1Cx9w1HmSf-1Zdw",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622816901,
+      "tag": [
+        {
+          "id": "etF-5ACAAAeiAQ5LjC6cZFqvKyNhvp8w",
+          "name": "tag_0602001",
+          "create_time": 1622816901,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAtBLQ8zpIx9XHMqT1mHVmlA",
+          "name": "tag_0602002",
+          "create_time": 1622816901,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAD3ApGBJXBewHHK8aqCslKg",
+          "name": "tag_0602003",
+          "create_time": 1622816901,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:32:21,651 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:21,651 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-06-04 22:32:21,856 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:21,856 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": []
+}
+2021-06-04 22:32:22,090 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:22,091 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAA7qu3AlT3jKD5tYkCqEsI-Q",
+    "group_name": "tag_group_052001",
+    "create_time": 1622817141,
+    "tag": [
+      {
+        "id": "etF-5ACAAAxbMutzXPBByWssDbCdx0Dg",
+        "name": "tag_052002",
+        "create_time": 1622817141,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:32:22,297 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:22,297 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA7qu3AlT3jKD5tYkCqEsI-Q",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817141,
+      "tag": [
+        {
+          "id": "etF-5ACAAAxbMutzXPBByWssDbCdx0Dg",
+          "name": "tag_052002",
+          "create_time": 1622817141,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:32:22,733 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:22,733 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAhOSA7A3if9Gzu6zkFiRkVg",
+    "group_name": "tag_group_052002",
+    "create_time": 1622817142,
+    "tag": [
+      {
+        "id": "etF-5ACAAAZewGkdY8iTJGHutoB5a6fw",
+        "name": "tag_052003",
+        "create_time": 1622817142,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:32:22,938 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:22,938 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA7qu3AlT3jKD5tYkCqEsI-Q",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817141,
+      "tag": [
+        {
+          "id": "etF-5ACAAAxbMutzXPBByWssDbCdx0Dg",
+          "name": "tag_052002",
+          "create_time": 1622817141,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAhOSA7A3if9Gzu6zkFiRkVg",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817142,
+      "tag": [
+        {
+          "id": "etF-5ACAAAZewGkdY8iTJGHutoB5a6fw",
+          "name": "tag_052003",
+          "create_time": 1622817142,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:32:23,180 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:23,181 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAArOI-GjgUQLyvCwk0FZQayg",
+    "group_name": "tag_group_0602001",
+    "create_time": 1622817142,
+    "tag": [
+      {
+        "id": "etF-5ACAAAPhIMxXIP1bwcR7A6VyjITA",
+        "name": "tag_0602001",
+        "create_time": 1622817142,
+        "order": 2
+      },
+      {
+        "id": "etF-5ACAAAaDW24KVS_VM1HVSDa0d1kA",
+        "name": "tag_0602002",
+        "create_time": 1622817142,
+        "order": 1
+      },
+      {
+        "id": "etF-5ACAAA18hhlYNFKDcMNZ_QGFW0Vg",
+        "name": "tag_0602003",
+        "create_time": 1622817142,
+        "order": 3
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:32:23,389 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:23,390 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA7qu3AlT3jKD5tYkCqEsI-Q",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817141,
+      "tag": [
+        {
+          "id": "etF-5ACAAAxbMutzXPBByWssDbCdx0Dg",
+          "name": "tag_052002",
+          "create_time": 1622817141,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAhOSA7A3if9Gzu6zkFiRkVg",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817142,
+      "tag": [
+        {
+          "id": "etF-5ACAAAZewGkdY8iTJGHutoB5a6fw",
+          "name": "tag_052003",
+          "create_time": 1622817142,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAArOI-GjgUQLyvCwk0FZQayg",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817142,
+      "tag": [
+        {
+          "id": "etF-5ACAAAPhIMxXIP1bwcR7A6VyjITA",
+          "name": "tag_0602001",
+          "create_time": 1622817142,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAaDW24KVS_VM1HVSDa0d1kA",
+          "name": "tag_0602002",
+          "create_time": 1622817142,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA18hhlYNFKDcMNZ_QGFW0Vg",
+          "name": "tag_0602003",
+          "create_time": 1622817142,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:32:23,634 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:23,634 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAGvlS6cIQE0nD3kdpSGcI5Q",
+    "group_name": "tag_group_0602011",
+    "create_time": 1622817142,
+    "tag": [
+      {
+        "id": "etF-5ACAAAJl7Ef5vaLMk8D9DfoNuz8A",
+        "name": "tag_0602011",
+        "create_time": 1622817142,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:32:23,843 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:23,843 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA7qu3AlT3jKD5tYkCqEsI-Q",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817141,
+      "tag": [
+        {
+          "id": "etF-5ACAAAxbMutzXPBByWssDbCdx0Dg",
+          "name": "tag_052002",
+          "create_time": 1622817141,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAhOSA7A3if9Gzu6zkFiRkVg",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817142,
+      "tag": [
+        {
+          "id": "etF-5ACAAAZewGkdY8iTJGHutoB5a6fw",
+          "name": "tag_052003",
+          "create_time": 1622817142,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAArOI-GjgUQLyvCwk0FZQayg",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817142,
+      "tag": [
+        {
+          "id": "etF-5ACAAAPhIMxXIP1bwcR7A6VyjITA",
+          "name": "tag_0602001",
+          "create_time": 1622817142,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAaDW24KVS_VM1HVSDa0d1kA",
+          "name": "tag_0602002",
+          "create_time": 1622817142,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA18hhlYNFKDcMNZ_QGFW0Vg",
+          "name": "tag_0602003",
+          "create_time": 1622817142,
+          "order": 3
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAGvlS6cIQE0nD3kdpSGcI5Q",
+      "group_name": "tag_group_0602011",
+      "create_time": 1622817142,
+      "tag": [
+        {
+          "id": "etF-5ACAAAJl7Ef5vaLMk8D9DfoNuz8A",
+          "name": "tag_0602011",
+          "create_time": 1622817142,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:32:24,114 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:24,114 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok. Warning: wrong json format. "
+}
+2021-06-04 22:32:24,324 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:24,324 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA7qu3AlT3jKD5tYkCqEsI-Q",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817141,
+      "tag": [
+        {
+          "id": "etF-5ACAAAxbMutzXPBByWssDbCdx0Dg",
+          "name": "tag_052002",
+          "create_time": 1622817141,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAhOSA7A3if9Gzu6zkFiRkVg",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817142,
+      "tag": [
+        {
+          "id": "etF-5ACAAAZewGkdY8iTJGHutoB5a6fw",
+          "name": "tag_052003",
+          "create_time": 1622817142,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAArOI-GjgUQLyvCwk0FZQayg",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817142,
+      "tag": [
+        {
+          "id": "etF-5ACAAAPhIMxXIP1bwcR7A6VyjITA",
+          "name": "tag_0602001",
+          "create_time": 1622817142,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAaDW24KVS_VM1HVSDa0d1kA",
+          "name": "tag_0602002",
+          "create_time": 1622817142,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA18hhlYNFKDcMNZ_QGFW0Vg",
+          "name": "tag_0602003",
+          "create_time": 1622817142,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:32:24,517 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:32:24,518 - base_api.py - INFO - {
+  "errcode": 40068,
+  "errmsg": "invalid tagid, hint: [1622817143_204_2d219c1ade19eb3ca8d3a3f2bc51f185], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=40068"
+}
+2021-06-04 22:38:11,807 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:11,807 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "ws7otDyhBcut24FHaCnfpU8WbQmm4fyBLVrTefRuT1_Jo-esFOIJt3gYmAtAwRxY-jo8cK-x44xxXyE6qpRHtLVuqTtmv_AFaWmemh-0d61HoF9eqel2cJBuw93qkJUkcvmgoFFpNskmMNDodGoTKJbHI8D7cL8Y_7cKjpuahAAmsDY6ySDokxWU_SpP_suEcygjK2_BbiscirDZm8y29g",
+  "expires_in": 7200
+}
+2021-06-04 22:38:12,025 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:12,026 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA7qu3AlT3jKD5tYkCqEsI-Q",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817141,
+      "tag": [
+        {
+          "id": "etF-5ACAAAxbMutzXPBByWssDbCdx0Dg",
+          "name": "tag_052002",
+          "create_time": 1622817141,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAhOSA7A3if9Gzu6zkFiRkVg",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817142,
+      "tag": [
+        {
+          "id": "etF-5ACAAAZewGkdY8iTJGHutoB5a6fw",
+          "name": "tag_052003",
+          "create_time": 1622817142,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAArOI-GjgUQLyvCwk0FZQayg",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817142,
+      "tag": [
+        {
+          "id": "etF-5ACAAAPhIMxXIP1bwcR7A6VyjITA",
+          "name": "tag_0602001",
+          "create_time": 1622817142,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAaDW24KVS_VM1HVSDa0d1kA",
+          "name": "tag_0602002",
+          "create_time": 1622817142,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA18hhlYNFKDcMNZ_QGFW0Vg",
+          "name": "tag_0602003",
+          "create_time": 1622817142,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:38:12,324 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:12,325 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-06-04 22:38:12,521 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:12,521 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": []
+}
+2021-06-04 22:38:12,753 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:12,753 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAvCcn5Od5x0jlnaD6Q7T3uQ",
+    "group_name": "tag_group_052001",
+    "create_time": 1622817492,
+    "tag": [
+      {
+        "id": "etF-5ACAAAEPjY8GHncZO8c7ciQrRCPg",
+        "name": "tag_052002",
+        "create_time": 1622817492,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:38:12,949 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:12,949 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAvCcn5Od5x0jlnaD6Q7T3uQ",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEPjY8GHncZO8c7ciQrRCPg",
+          "name": "tag_052002",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:38:13,387 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:13,387 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAff1s7L06HMUe0CLNg0sSKw",
+    "group_name": "tag_group_052002",
+    "create_time": 1622817492,
+    "tag": [
+      {
+        "id": "etF-5ACAAA-QBipm4PrI8gRF9wXVWq5A",
+        "name": "tag_052003",
+        "create_time": 1622817492,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:38:13,607 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:13,608 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAvCcn5Od5x0jlnaD6Q7T3uQ",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEPjY8GHncZO8c7ciQrRCPg",
+          "name": "tag_052002",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAff1s7L06HMUe0CLNg0sSKw",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAA-QBipm4PrI8gRF9wXVWq5A",
+          "name": "tag_052003",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:38:13,867 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:13,868 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAnkUkXjECzSj8KRYMW9As9w",
+    "group_name": "tag_group_0602001",
+    "create_time": 1622817493,
+    "tag": [
+      {
+        "id": "etF-5ACAAAD_ZfUcIWbjKYwYjxG3FHEQ",
+        "name": "tag_0602001",
+        "create_time": 1622817493,
+        "order": 2
+      },
+      {
+        "id": "etF-5ACAAAH4eCI-jiTkhS1QtQX8bkjg",
+        "name": "tag_0602002",
+        "create_time": 1622817493,
+        "order": 1
+      },
+      {
+        "id": "etF-5ACAAA0vaXdnNbOatMETwfA-Jcyw",
+        "name": "tag_0602003",
+        "create_time": 1622817493,
+        "order": 3
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:38:14,065 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:14,066 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAvCcn5Od5x0jlnaD6Q7T3uQ",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEPjY8GHncZO8c7ciQrRCPg",
+          "name": "tag_052002",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAff1s7L06HMUe0CLNg0sSKw",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAA-QBipm4PrI8gRF9wXVWq5A",
+          "name": "tag_052003",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAnkUkXjECzSj8KRYMW9As9w",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817493,
+      "tag": [
+        {
+          "id": "etF-5ACAAAD_ZfUcIWbjKYwYjxG3FHEQ",
+          "name": "tag_0602001",
+          "create_time": 1622817493,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAH4eCI-jiTkhS1QtQX8bkjg",
+          "name": "tag_0602002",
+          "create_time": 1622817493,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA0vaXdnNbOatMETwfA-Jcyw",
+          "name": "tag_0602003",
+          "create_time": 1622817493,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:38:14,324 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:14,325 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAzAU321oq53dnaEgz1yThnQ",
+    "group_name": "tag_group_0602011",
+    "create_time": 1622817493,
+    "tag": [
+      {
+        "id": "etF-5ACAAACGmTdHvS4jqPRd5bpUTdag",
+        "name": "tag_0602011",
+        "create_time": 1622817493,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:38:14,514 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:14,514 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAvCcn5Od5x0jlnaD6Q7T3uQ",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEPjY8GHncZO8c7ciQrRCPg",
+          "name": "tag_052002",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAff1s7L06HMUe0CLNg0sSKw",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAA-QBipm4PrI8gRF9wXVWq5A",
+          "name": "tag_052003",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAnkUkXjECzSj8KRYMW9As9w",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817493,
+      "tag": [
+        {
+          "id": "etF-5ACAAAD_ZfUcIWbjKYwYjxG3FHEQ",
+          "name": "tag_0602001",
+          "create_time": 1622817493,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAH4eCI-jiTkhS1QtQX8bkjg",
+          "name": "tag_0602002",
+          "create_time": 1622817493,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA0vaXdnNbOatMETwfA-Jcyw",
+          "name": "tag_0602003",
+          "create_time": 1622817493,
+          "order": 3
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAzAU321oq53dnaEgz1yThnQ",
+      "group_name": "tag_group_0602011",
+      "create_time": 1622817493,
+      "tag": [
+        {
+          "id": "etF-5ACAAACGmTdHvS4jqPRd5bpUTdag",
+          "name": "tag_0602011",
+          "create_time": 1622817493,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:38:14,778 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:14,778 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok. Warning: wrong json format. "
+}
+2021-06-04 22:38:14,985 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:14,985 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAvCcn5Od5x0jlnaD6Q7T3uQ",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEPjY8GHncZO8c7ciQrRCPg",
+          "name": "tag_052002",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAff1s7L06HMUe0CLNg0sSKw",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAA-QBipm4PrI8gRF9wXVWq5A",
+          "name": "tag_052003",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAnkUkXjECzSj8KRYMW9As9w",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817493,
+      "tag": [
+        {
+          "id": "etF-5ACAAAD_ZfUcIWbjKYwYjxG3FHEQ",
+          "name": "tag_0602001",
+          "create_time": 1622817493,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAH4eCI-jiTkhS1QtQX8bkjg",
+          "name": "tag_0602002",
+          "create_time": 1622817493,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA0vaXdnNbOatMETwfA-Jcyw",
+          "name": "tag_0602003",
+          "create_time": 1622817493,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:38:15,189 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:38:15,189 - base_api.py - INFO - {
+  "errcode": 40068,
+  "errmsg": "invalid tagid, hint: [1622817494_205_0e771901e5fa9e3ff47e15a9407d50f0], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=40068"
+}
+2021-06-04 22:42:37,167 - wework_api.py - INFO - 获取externalcontact的token--------------
+2021-06-04 22:42:37,396 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:37,396 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "ws7otDyhBcut24FHaCnfpU8WbQmm4fyBLVrTefRuT1_Jo-esFOIJt3gYmAtAwRxY-jo8cK-x44xxXyE6qpRHtLVuqTtmv_AFaWmemh-0d61HoF9eqel2cJBuw93qkJUkcvmgoFFpNskmMNDodGoTKJbHI8D7cL8Y_7cKjpuahAAmsDY6ySDokxWU_SpP_suEcygjK2_BbiscirDZm8y29g",
+  "expires_in": 7200
+}
+2021-06-04 22:42:37,619 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:37,619 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAvCcn5Od5x0jlnaD6Q7T3uQ",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEPjY8GHncZO8c7ciQrRCPg",
+          "name": "tag_052002",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAff1s7L06HMUe0CLNg0sSKw",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817492,
+      "tag": [
+        {
+          "id": "etF-5ACAAA-QBipm4PrI8gRF9wXVWq5A",
+          "name": "tag_052003",
+          "create_time": 1622817492,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAnkUkXjECzSj8KRYMW9As9w",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817493,
+      "tag": [
+        {
+          "id": "etF-5ACAAAD_ZfUcIWbjKYwYjxG3FHEQ",
+          "name": "tag_0602001",
+          "create_time": 1622817493,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAH4eCI-jiTkhS1QtQX8bkjg",
+          "name": "tag_0602002",
+          "create_time": 1622817493,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA0vaXdnNbOatMETwfA-Jcyw",
+          "name": "tag_0602003",
+          "create_time": 1622817493,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:42:37,916 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:37,916 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-06-04 22:42:38,118 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:38,119 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": []
+}
+2021-06-04 22:42:38,377 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:38,377 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAHDtIBfgDBTfX8Vj1JUkKBg",
+    "group_name": "tag_group_052001",
+    "create_time": 1622817757,
+    "tag": [
+      {
+        "id": "etF-5ACAAAOkHHFKCLph1RqYRQqNDFOw",
+        "name": "tag_052002",
+        "create_time": 1622817757,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:42:38,592 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:38,593 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAHDtIBfgDBTfX8Vj1JUkKBg",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817757,
+      "tag": [
+        {
+          "id": "etF-5ACAAAOkHHFKCLph1RqYRQqNDFOw",
+          "name": "tag_052002",
+          "create_time": 1622817757,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:42:39,014 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:39,014 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAM77jrfbt1HGwPj37G07Pjw",
+    "group_name": "tag_group_052002",
+    "create_time": 1622817758,
+    "tag": [
+      {
+        "id": "etF-5ACAAA4BBrOb4qN_14FA0iqWOyWw",
+        "name": "tag_052003",
+        "create_time": 1622817758,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:42:39,215 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:39,215 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAHDtIBfgDBTfX8Vj1JUkKBg",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817757,
+      "tag": [
+        {
+          "id": "etF-5ACAAAOkHHFKCLph1RqYRQqNDFOw",
+          "name": "tag_052002",
+          "create_time": 1622817757,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAM77jrfbt1HGwPj37G07Pjw",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817758,
+      "tag": [
+        {
+          "id": "etF-5ACAAA4BBrOb4qN_14FA0iqWOyWw",
+          "name": "tag_052003",
+          "create_time": 1622817758,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:42:39,469 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:39,469 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAPWenKrYi3SyNoL87TYORiQ",
+    "group_name": "tag_group_0602001",
+    "create_time": 1622817758,
+    "tag": [
+      {
+        "id": "etF-5ACAAA6Zd9jfNvpWmPJvHpRQv9sQ",
+        "name": "tag_0602001",
+        "create_time": 1622817758,
+        "order": 2
+      },
+      {
+        "id": "etF-5ACAAANWOg2oki3vVDg4jEhb4zFg",
+        "name": "tag_0602002",
+        "create_time": 1622817758,
+        "order": 1
+      },
+      {
+        "id": "etF-5ACAAAWj_Zr1YiGHomzoWM1mWQuA",
+        "name": "tag_0602003",
+        "create_time": 1622817758,
+        "order": 3
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:42:39,677 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:39,678 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAHDtIBfgDBTfX8Vj1JUkKBg",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817757,
+      "tag": [
+        {
+          "id": "etF-5ACAAAOkHHFKCLph1RqYRQqNDFOw",
+          "name": "tag_052002",
+          "create_time": 1622817757,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAM77jrfbt1HGwPj37G07Pjw",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817758,
+      "tag": [
+        {
+          "id": "etF-5ACAAA4BBrOb4qN_14FA0iqWOyWw",
+          "name": "tag_052003",
+          "create_time": 1622817758,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAPWenKrYi3SyNoL87TYORiQ",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817758,
+      "tag": [
+        {
+          "id": "etF-5ACAAA6Zd9jfNvpWmPJvHpRQv9sQ",
+          "name": "tag_0602001",
+          "create_time": 1622817758,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAANWOg2oki3vVDg4jEhb4zFg",
+          "name": "tag_0602002",
+          "create_time": 1622817758,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAWj_Zr1YiGHomzoWM1mWQuA",
+          "name": "tag_0602003",
+          "create_time": 1622817758,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:42:39,909 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:39,909 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAA4HLw0rk8QmULwEHs07tNVQ",
+    "group_name": "tag_group_0602011",
+    "create_time": 1622817759,
+    "tag": [
+      {
+        "id": "etF-5ACAAA5Oowdaq98j24Ha84e-53Ig",
+        "name": "tag_0602011",
+        "create_time": 1622817759,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:42:40,115 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:40,116 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAHDtIBfgDBTfX8Vj1JUkKBg",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817757,
+      "tag": [
+        {
+          "id": "etF-5ACAAAOkHHFKCLph1RqYRQqNDFOw",
+          "name": "tag_052002",
+          "create_time": 1622817757,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAM77jrfbt1HGwPj37G07Pjw",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817758,
+      "tag": [
+        {
+          "id": "etF-5ACAAA4BBrOb4qN_14FA0iqWOyWw",
+          "name": "tag_052003",
+          "create_time": 1622817758,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAPWenKrYi3SyNoL87TYORiQ",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817758,
+      "tag": [
+        {
+          "id": "etF-5ACAAA6Zd9jfNvpWmPJvHpRQv9sQ",
+          "name": "tag_0602001",
+          "create_time": 1622817758,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAANWOg2oki3vVDg4jEhb4zFg",
+          "name": "tag_0602002",
+          "create_time": 1622817758,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAWj_Zr1YiGHomzoWM1mWQuA",
+          "name": "tag_0602003",
+          "create_time": 1622817758,
+          "order": 3
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA4HLw0rk8QmULwEHs07tNVQ",
+      "group_name": "tag_group_0602011",
+      "create_time": 1622817759,
+      "tag": [
+        {
+          "id": "etF-5ACAAA5Oowdaq98j24Ha84e-53Ig",
+          "name": "tag_0602011",
+          "create_time": 1622817759,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:42:40,394 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:40,395 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok. Warning: wrong json format. "
+}
+2021-06-04 22:42:40,596 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:40,598 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAHDtIBfgDBTfX8Vj1JUkKBg",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817757,
+      "tag": [
+        {
+          "id": "etF-5ACAAAOkHHFKCLph1RqYRQqNDFOw",
+          "name": "tag_052002",
+          "create_time": 1622817757,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAM77jrfbt1HGwPj37G07Pjw",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817758,
+      "tag": [
+        {
+          "id": "etF-5ACAAA4BBrOb4qN_14FA0iqWOyWw",
+          "name": "tag_052003",
+          "create_time": 1622817758,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAPWenKrYi3SyNoL87TYORiQ",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817758,
+      "tag": [
+        {
+          "id": "etF-5ACAAA6Zd9jfNvpWmPJvHpRQv9sQ",
+          "name": "tag_0602001",
+          "create_time": 1622817758,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAANWOg2oki3vVDg4jEhb4zFg",
+          "name": "tag_0602002",
+          "create_time": 1622817758,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAWj_Zr1YiGHomzoWM1mWQuA",
+          "name": "tag_0602003",
+          "create_time": 1622817758,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:42:40,812 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:42:40,812 - base_api.py - INFO - {
+  "errcode": 40068,
+  "errmsg": "invalid tagid, hint: [1622817760_205_2fe87d59f8a54e406ff5b4427acd71aa], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=40068"
+}
+2021-06-04 22:44:43,592 - wework_api.py - INFO - 获取externalcontact的token--------------
+2021-06-04 22:44:43,849 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:43,849 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "ws7otDyhBcut24FHaCnfpU8WbQmm4fyBLVrTefRuT1_Jo-esFOIJt3gYmAtAwRxY-jo8cK-x44xxXyE6qpRHtLVuqTtmv_AFaWmemh-0d61HoF9eqel2cJBuw93qkJUkcvmgoFFpNskmMNDodGoTKJbHI8D7cL8Y_7cKjpuahAAmsDY6ySDokxWU_SpP_suEcygjK2_BbiscirDZm8y29g",
+  "expires_in": 7200
+}
+2021-06-04 22:44:43,849 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-04 22:44:44,058 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:44,058 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAHDtIBfgDBTfX8Vj1JUkKBg",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817757,
+      "tag": [
+        {
+          "id": "etF-5ACAAAOkHHFKCLph1RqYRQqNDFOw",
+          "name": "tag_052002",
+          "create_time": 1622817757,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAM77jrfbt1HGwPj37G07Pjw",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817758,
+      "tag": [
+        {
+          "id": "etF-5ACAAA4BBrOb4qN_14FA0iqWOyWw",
+          "name": "tag_052003",
+          "create_time": 1622817758,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAPWenKrYi3SyNoL87TYORiQ",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817758,
+      "tag": [
+        {
+          "id": "etF-5ACAAA6Zd9jfNvpWmPJvHpRQv9sQ",
+          "name": "tag_0602001",
+          "create_time": 1622817758,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAANWOg2oki3vVDg4jEhb4zFg",
+          "name": "tag_0602002",
+          "create_time": 1622817758,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAWj_Zr1YiGHomzoWM1mWQuA",
+          "name": "tag_0602003",
+          "create_time": 1622817758,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:44:44,377 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:44,378 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-06-04 22:44:44,378 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-04 22:44:44,580 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:44,580 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": []
+}
+2021-06-04 22:44:44,823 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:44,824 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAKKId1PFbzOSXYZjXi8TNcw",
+    "group_name": "tag_group_052001",
+    "create_time": 1622817884,
+    "tag": [
+      {
+        "id": "etF-5ACAAAYpjJ6UaPD6vGK6guBYir1Q",
+        "name": "tag_052002",
+        "create_time": 1622817884,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:44:44,824 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-04 22:44:45,022 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:45,023 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAKKId1PFbzOSXYZjXi8TNcw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAYpjJ6UaPD6vGK6guBYir1Q",
+          "name": "tag_052002",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:44:45,446 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:45,447 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAA7AdqlrNeGJFQWPH3xArwkQ",
+    "group_name": "tag_group_052002",
+    "create_time": 1622817884,
+    "tag": [
+      {
+        "id": "etF-5ACAAAusKghdkubnRpXTmcGRBIPw",
+        "name": "tag_052003",
+        "create_time": 1622817884,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:44:45,447 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-04 22:44:45,647 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:45,647 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAKKId1PFbzOSXYZjXi8TNcw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAYpjJ6UaPD6vGK6guBYir1Q",
+          "name": "tag_052002",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA7AdqlrNeGJFQWPH3xArwkQ",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAusKghdkubnRpXTmcGRBIPw",
+          "name": "tag_052003",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:44:45,902 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:45,902 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAOfQKtOMIVkmknNE6zA9CzA",
+    "group_name": "tag_group_0602001",
+    "create_time": 1622817885,
+    "tag": [
+      {
+        "id": "etF-5ACAAAYdF4mpQUdiuRlmjNfyS0pQ",
+        "name": "tag_0602001",
+        "create_time": 1622817885,
+        "order": 2
+      },
+      {
+        "id": "etF-5ACAAAq2264HrXdjYkFD74gHcI2Q",
+        "name": "tag_0602002",
+        "create_time": 1622817885,
+        "order": 1
+      },
+      {
+        "id": "etF-5ACAAA_ntL0yeDTP-6edlGPsNFhA",
+        "name": "tag_0602003",
+        "create_time": 1622817885,
+        "order": 3
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:44:45,902 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-04 22:44:46,099 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:46,100 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAKKId1PFbzOSXYZjXi8TNcw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAYpjJ6UaPD6vGK6guBYir1Q",
+          "name": "tag_052002",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA7AdqlrNeGJFQWPH3xArwkQ",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAusKghdkubnRpXTmcGRBIPw",
+          "name": "tag_052003",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAOfQKtOMIVkmknNE6zA9CzA",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817885,
+      "tag": [
+        {
+          "id": "etF-5ACAAAYdF4mpQUdiuRlmjNfyS0pQ",
+          "name": "tag_0602001",
+          "create_time": 1622817885,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAq2264HrXdjYkFD74gHcI2Q",
+          "name": "tag_0602002",
+          "create_time": 1622817885,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA_ntL0yeDTP-6edlGPsNFhA",
+          "name": "tag_0602003",
+          "create_time": 1622817885,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:44:46,377 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:46,377 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAPH5RJRlkulmGNxcv7FGfHA",
+    "group_name": "tag_group_0602011",
+    "create_time": 1622817885,
+    "tag": [
+      {
+        "id": "etF-5ACAAA-NU6-uulSdEG_LnLpBIXwA",
+        "name": "tag_0602011",
+        "create_time": 1622817885,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-04 22:44:46,377 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-04 22:44:46,593 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:46,594 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAKKId1PFbzOSXYZjXi8TNcw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAYpjJ6UaPD6vGK6guBYir1Q",
+          "name": "tag_052002",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA7AdqlrNeGJFQWPH3xArwkQ",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAusKghdkubnRpXTmcGRBIPw",
+          "name": "tag_052003",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAOfQKtOMIVkmknNE6zA9CzA",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817885,
+      "tag": [
+        {
+          "id": "etF-5ACAAAYdF4mpQUdiuRlmjNfyS0pQ",
+          "name": "tag_0602001",
+          "create_time": 1622817885,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAq2264HrXdjYkFD74gHcI2Q",
+          "name": "tag_0602002",
+          "create_time": 1622817885,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA_ntL0yeDTP-6edlGPsNFhA",
+          "name": "tag_0602003",
+          "create_time": 1622817885,
+          "order": 3
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAPH5RJRlkulmGNxcv7FGfHA",
+      "group_name": "tag_group_0602011",
+      "create_time": 1622817885,
+      "tag": [
+        {
+          "id": "etF-5ACAAA-NU6-uulSdEG_LnLpBIXwA",
+          "name": "tag_0602011",
+          "create_time": 1622817885,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:44:46,855 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:46,855 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok. Warning: wrong json format. "
+}
+2021-06-04 22:44:46,855 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-04 22:44:47,043 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:47,043 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAKKId1PFbzOSXYZjXi8TNcw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAYpjJ6UaPD6vGK6guBYir1Q",
+          "name": "tag_052002",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA7AdqlrNeGJFQWPH3xArwkQ",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAusKghdkubnRpXTmcGRBIPw",
+          "name": "tag_052003",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAOfQKtOMIVkmknNE6zA9CzA",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817885,
+      "tag": [
+        {
+          "id": "etF-5ACAAAYdF4mpQUdiuRlmjNfyS0pQ",
+          "name": "tag_0602001",
+          "create_time": 1622817885,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAq2264HrXdjYkFD74gHcI2Q",
+          "name": "tag_0602002",
+          "create_time": 1622817885,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA_ntL0yeDTP-6edlGPsNFhA",
+          "name": "tag_0602003",
+          "create_time": 1622817885,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-04 22:44:47,252 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-04 22:44:47,252 - base_api.py - INFO - {
+  "errcode": 40068,
+  "errmsg": "invalid tagid, hint: [1622817886_204_6109632c96d7983717243d570244eb41], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=40068"
+}
+2021-06-07 16:34:53,122 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 16:34:53,369 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:34:53,369 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "BV8U1C9k3mfyRNhW84afs60wT1AzJzKjSDKkBa1aBB2V8bJfgMBh_EaMiBBrDPcNAWRGDruHKBYh7CIIZRKUi7SnIfm4-uB9mlYfYQr7K6NMLI77xvnJBgCgSdkE7gye0GSJ6Og7vqXYNu_RMHnxP9MD615lBdp_kPysC13rLhPKTzVS3Dz41go6Q8LR7fL5f2TCCleFOZ6hPeboH1bIsA",
+  "expires_in": 7200
+}
+2021-06-07 16:34:53,445 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 16:36:20,095 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 16:36:20,335 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:36:20,335 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "BV8U1C9k3mfyRNhW84afs60wT1AzJzKjSDKkBa1aBB2V8bJfgMBh_EaMiBBrDPcNAWRGDruHKBYh7CIIZRKUi7SnIfm4-uB9mlYfYQr7K6NMLI77xvnJBgCgSdkE7gye0GSJ6Og7vqXYNu_RMHnxP9MD615lBdp_kPysC13rLhPKTzVS3Dz41go6Q8LR7fL5f2TCCleFOZ6hPeboH1bIsA",
+  "expires_in": 7200
+}
+2021-06-07 16:36:20,410 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 16:36:20,704 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:36:20,704 - base_api.py - INFO - {
+  "errcode": 60103,
+  "errmsg": "invalid mobile, hint: [1623054981_161_d68d42415abb0c44f34960cc8892c945], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=60103"
+}
+2021-06-07 16:38:10,136 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 16:38:10,421 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:38:10,421 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "BV8U1C9k3mfyRNhW84afs60wT1AzJzKjSDKkBa1aBB2V8bJfgMBh_EaMiBBrDPcNAWRGDruHKBYh7CIIZRKUi7SnIfm4-uB9mlYfYQr7K6NMLI77xvnJBgCgSdkE7gye0GSJ6Og7vqXYNu_RMHnxP9MD615lBdp_kPysC13rLhPKTzVS3Dz41go6Q8LR7fL5f2TCCleFOZ6hPeboH1bIsA",
+  "expires_in": 7200
+}
+2021-06-07 16:38:10,497 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 16:38:10,805 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:38:10,806 - base_api.py - INFO - {
+  "errcode": 60103,
+  "errmsg": "invalid mobile, hint: [1623055091_161_994a2bae7f016aa23294aab83cf69782], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=60103"
+}
+2021-06-07 16:41:34,311 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 16:41:34,547 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:41:34,547 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "BV8U1C9k3mfyRNhW84afs60wT1AzJzKjSDKkBa1aBB2V8bJfgMBh_EaMiBBrDPcNAWRGDruHKBYh7CIIZRKUi7SnIfm4-uB9mlYfYQr7K6NMLI77xvnJBgCgSdkE7gye0GSJ6Og7vqXYNu_RMHnxP9MD615lBdp_kPysC13rLhPKTzVS3Dz41go6Q8LR7fL5f2TCCleFOZ6hPeboH1bIsA",
+  "expires_in": 7200
+}
+2021-06-07 16:41:34,624 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 16:41:34,922 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:41:34,922 - base_api.py - INFO - {
+  "errcode": 60103,
+  "errmsg": "invalid mobile, hint: [1623055295_161_ce5c1b8fb927bb9449c125a0d8e4df42], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=60103"
+}
+2021-06-07 16:42:44,724 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 16:42:44,964 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:42:44,964 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "BV8U1C9k3mfyRNhW84afs60wT1AzJzKjSDKkBa1aBB2V8bJfgMBh_EaMiBBrDPcNAWRGDruHKBYh7CIIZRKUi7SnIfm4-uB9mlYfYQr7K6NMLI77xvnJBgCgSdkE7gye0GSJ6Og7vqXYNu_RMHnxP9MD615lBdp_kPysC13rLhPKTzVS3Dz41go6Q8LR7fL5f2TCCleFOZ6hPeboH1bIsA",
+  "expires_in": 7200
+}
+2021-06-07 16:42:45,044 - member.py - INFO - 获取data信息----------
+2021-06-07 16:42:45,044 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'BV8U1C9k3mfyRNhW84afs60wT1AzJzKjSDKkBa1aBB2V8bJfgMBh_EaMiBBrDPcNAWRGDruHKBYh7CIIZRKUi7SnIfm4-uB9mlYfYQr7K6NMLI77xvnJBgCgSdkE7gye0GSJ6Og7vqXYNu_RMHnxP9MD615lBdp_kPysC13rLhPKTzVS3Dz41go6Q8LR7fL5f2TCCleFOZ6hPeboH1bIsA'}, 'json': {'userid': 'Dylan', 'name': 'Samantha Whitehead', 'mobile': '+86 3285797986', 'department': [1, 2]}}
+2021-06-07 16:42:45,044 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 16:42:45,351 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:42:45,351 - base_api.py - INFO - {
+  "errcode": 60103,
+  "errmsg": "invalid mobile, hint: [1623055365_161_631b6e967ed994d70f40378e9dccd3d1], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=60103"
+}
+2021-06-07 16:44:48,021 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 16:44:48,253 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:44:48,253 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "BV8U1C9k3mfyRNhW84afs60wT1AzJzKjSDKkBa1aBB2V8bJfgMBh_EaMiBBrDPcNAWRGDruHKBYh7CIIZRKUi7SnIfm4-uB9mlYfYQr7K6NMLI77xvnJBgCgSdkE7gye0GSJ6Og7vqXYNu_RMHnxP9MD615lBdp_kPysC13rLhPKTzVS3Dz41go6Q8LR7fL5f2TCCleFOZ6hPeboH1bIsA",
+  "expires_in": 7200
+}
+2021-06-07 16:44:48,329 - member.py - INFO - 获取data信息----------
+2021-06-07 16:44:48,329 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'BV8U1C9k3mfyRNhW84afs60wT1AzJzKjSDKkBa1aBB2V8bJfgMBh_EaMiBBrDPcNAWRGDruHKBYh7CIIZRKUi7SnIfm4-uB9mlYfYQr7K6NMLI77xvnJBgCgSdkE7gye0GSJ6Og7vqXYNu_RMHnxP9MD615lBdp_kPysC13rLhPKTzVS3Dz41go6Q8LR7fL5f2TCCleFOZ6hPeboH1bIsA'}, 'json': {'userid': 'Spencer', 'name': '尤荣', 'mobile': '+86 13611934803', 'department': [1, 2]}}
+2021-06-07 16:44:48,329 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 16:44:48,776 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:44:48,777 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 16:45:14,479 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 16:45:14,714 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:45:14,714 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "BV8U1C9k3mfyRNhW84afs60wT1AzJzKjSDKkBa1aBB2V8bJfgMBh_EaMiBBrDPcNAWRGDruHKBYh7CIIZRKUi7SnIfm4-uB9mlYfYQr7K6NMLI77xvnJBgCgSdkE7gye0GSJ6Og7vqXYNu_RMHnxP9MD615lBdp_kPysC13rLhPKTzVS3Dz41go6Q8LR7fL5f2TCCleFOZ6hPeboH1bIsA",
+  "expires_in": 7200
+}
+2021-06-07 16:45:14,790 - member.py - INFO - 获取data信息----------
+2021-06-07 16:45:14,790 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'BV8U1C9k3mfyRNhW84afs60wT1AzJzKjSDKkBa1aBB2V8bJfgMBh_EaMiBBrDPcNAWRGDruHKBYh7CIIZRKUi7SnIfm4-uB9mlYfYQr7K6NMLI77xvnJBgCgSdkE7gye0GSJ6Og7vqXYNu_RMHnxP9MD615lBdp_kPysC13rLhPKTzVS3Dz41go6Q8LR7fL5f2TCCleFOZ6hPeboH1bIsA'}, 'json': {'userid': 'Debbie', 'name': '刘秀云', 'mobile': '13511026786', 'department': [1, 2]}}
+2021-06-07 16:45:14,790 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 16:45:15,241 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 16:45:15,241 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 17:32:13,190 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 17:32:13,450 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 17:32:13,450 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "tHPvJy-wwfD1zwnygcjH9SRy0Rs0nsoSPFw8d8F6OmO3__xgEaR1sMP35rReqWEmBRqdycp4F9kLmz3yAVXp0x07nryukOS28PxRJFlUzoZhs0lzHxFNIuYhNWNLlCRb9JGidaTVm7855Je4UOugSXOjhI_vhVcosV6nxGxI7eTxcPsAOTtclAJkneO94oaFKvbE_9k_0LYCGa-TZ_4unw",
+  "expires_in": 7200
+}
+2021-06-07 17:32:48,727 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 17:32:48,987 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 17:32:48,987 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "tHPvJy-wwfD1zwnygcjH9SRy0Rs0nsoSPFw8d8F6OmO3__xgEaR1sMP35rReqWEmBRqdycp4F9kLmz3yAVXp0x07nryukOS28PxRJFlUzoZhs0lzHxFNIuYhNWNLlCRb9JGidaTVm7855Je4UOugSXOjhI_vhVcosV6nxGxI7eTxcPsAOTtclAJkneO94oaFKvbE_9k_0LYCGa-TZ_4unw",
+  "expires_in": 7200
+}
+2021-06-07 17:32:48,988 - member.py - INFO - 获取data信息----------
+2021-06-07 17:32:48,988 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'tHPvJy-wwfD1zwnygcjH9SRy0Rs0nsoSPFw8d8F6OmO3__xgEaR1sMP35rReqWEmBRqdycp4F9kLmz3yAVXp0x07nryukOS28PxRJFlUzoZhs0lzHxFNIuYhNWNLlCRb9JGidaTVm7855Je4UOugSXOjhI_vhVcosV6nxGxI7eTxcPsAOTtclAJkneO94oaFKvbE_9k_0LYCGa-TZ_4unw'}, 'json': {'userid': 'Amber', 'name': '林海燕', 'mobile': '14506782762', 'department': [1, 2]}}
+2021-06-07 17:32:48,989 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 17:32:49,440 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 17:32:49,440 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 17:32:49,445 - member.py - INFO - 获取data信息----------
+2021-06-07 17:32:49,446 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'tHPvJy-wwfD1zwnygcjH9SRy0Rs0nsoSPFw8d8F6OmO3__xgEaR1sMP35rReqWEmBRqdycp4F9kLmz3yAVXp0x07nryukOS28PxRJFlUzoZhs0lzHxFNIuYhNWNLlCRb9JGidaTVm7855Je4UOugSXOjhI_vhVcosV6nxGxI7eTxcPsAOTtclAJkneO94oaFKvbE_9k_0LYCGa-TZ_4unw'}, 'json': {'userid': 'Meghan', 'name': 'Maria Hart', 'mobile': '532.432.8371x393', 'department': [1, 2]}}
+2021-06-07 17:32:49,446 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 17:32:49,758 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 17:32:49,759 - base_api.py - INFO - {
+  "errcode": 60103,
+  "errmsg": "invalid mobile, hint: [1623058370_161_b40882460cc54724586b0bb70c54f854], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=60103"
+}
+2021-06-07 17:34:06,482 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 17:34:06,720 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 17:34:06,720 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "tHPvJy-wwfD1zwnygcjH9SRy0Rs0nsoSPFw8d8F6OmO3__xgEaR1sMP35rReqWEmBRqdycp4F9kLmz3yAVXp0x07nryukOS28PxRJFlUzoZhs0lzHxFNIuYhNWNLlCRb9JGidaTVm7855Je4UOugSXOjhI_vhVcosV6nxGxI7eTxcPsAOTtclAJkneO94oaFKvbE_9k_0LYCGa-TZ_4unw",
+  "expires_in": 7200
+}
+2021-06-07 17:34:06,721 - member.py - INFO - 获取data信息----------
+2021-06-07 17:34:06,721 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'tHPvJy-wwfD1zwnygcjH9SRy0Rs0nsoSPFw8d8F6OmO3__xgEaR1sMP35rReqWEmBRqdycp4F9kLmz3yAVXp0x07nryukOS28PxRJFlUzoZhs0lzHxFNIuYhNWNLlCRb9JGidaTVm7855Je4UOugSXOjhI_vhVcosV6nxGxI7eTxcPsAOTtclAJkneO94oaFKvbE_9k_0LYCGa-TZ_4unw'}, 'json': {'userid': 'Christopher', 'name': '王芳', 'mobile': '15014584652', 'department': [1, 2]}}
+2021-06-07 17:34:06,721 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 17:34:07,153 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 17:34:07,153 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 17:34:07,158 - member.py - INFO - 获取data信息----------
+2021-06-07 17:34:07,159 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'tHPvJy-wwfD1zwnygcjH9SRy0Rs0nsoSPFw8d8F6OmO3__xgEaR1sMP35rReqWEmBRqdycp4F9kLmz3yAVXp0x07nryukOS28PxRJFlUzoZhs0lzHxFNIuYhNWNLlCRb9JGidaTVm7855Je4UOugSXOjhI_vhVcosV6nxGxI7eTxcPsAOTtclAJkneO94oaFKvbE_9k_0LYCGa-TZ_4unw'}, 'json': {'userid': 'Susan', 'name': '张强', 'mobile': '13000098018', 'department': [1, 2]}}
+2021-06-07 17:34:07,159 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 17:34:07,588 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 17:34:07,588 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 20:59:33,831 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 20:59:34,081 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 20:59:34,081 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA",
+  "expires_in": 7200
+}
+2021-06-07 20:59:34,082 - member.py - INFO - 获取data信息----------
+2021-06-07 20:59:34,082 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'Mary', 'name': '张龙', 'mobile': '14507016033', 'department': [1, 2]}}
+2021-06-07 20:59:34,082 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 20:59:34,558 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 20:59:34,558 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 20:59:34,563 - member.py - INFO - 获取data信息----------
+2021-06-07 20:59:34,563 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'Ashley', 'name': '蒋彬', 'mobile': '14506444480', 'department': [1, 2]}}
+2021-06-07 20:59:34,563 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 20:59:34,952 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 20:59:34,952 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 21:03:40,173 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 21:03:40,407 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:03:40,408 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA",
+  "expires_in": 7200
+}
+2021-06-07 21:03:40,409 - member.py - INFO - 获取data信息----------
+2021-06-07 21:03:40,409 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'Stephanie', 'name': '杨峰', 'mobile': '13176105260', 'department': [1, 2]}}
+2021-06-07 21:03:40,409 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 21:03:40,832 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:03:40,832 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 21:03:40,837 - member.py - INFO - 获取data信息----------
+2021-06-07 21:03:40,837 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'Shane', 'name': '秦红梅', 'mobile': '13332107593', 'department': [1, 2]}}
+2021-06-07 21:03:40,837 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 21:03:41,248 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:03:41,248 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 21:04:03,841 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 21:04:04,072 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:04:04,072 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA",
+  "expires_in": 7200
+}
+2021-06-07 21:04:04,073 - member.py - INFO - 获取data信息----------
+2021-06-07 21:04:04,074 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'Elizabeth', 'name': '冯桂芝', 'mobile': '14735893112', 'department': [1, 2]}}
+2021-06-07 21:04:04,074 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 21:04:04,563 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:04:04,563 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 21:04:04,568 - member.py - INFO - 获取data信息----------
+2021-06-07 21:04:04,568 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'Justin', 'name': '唐玉华', 'mobile': '18942762094', 'department': [1, 2]}}
+2021-06-07 21:04:04,568 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 21:04:05,015 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:04:05,015 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 21:09:43,765 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 21:09:43,999 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:09:44,000 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA",
+  "expires_in": 7200
+}
+2021-06-07 21:09:44,001 - member.py - INFO - 获取data信息----------
+2021-06-07 21:09:44,001 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'Ruben', 'name': '陈欣', 'mobile': '14751503775', 'department': [1, 2]}}
+2021-06-07 21:09:44,001 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 21:09:44,439 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:09:44,439 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 21:09:44,439 - member.py - INFO - 获取data信息----------
+2021-06-07 21:09:44,439 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/get', 'method': 'get', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA', 'userid': 'Ruben'}}
+2021-06-07 21:09:44,439 - member.py - INFO - 获取user的search的返回结果----------
+2021-06-07 21:09:44,668 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:09:44,669 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "Ruben",
+  "name": "陈欣",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "14751503775",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc75a6093976014f18",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-06-07 21:09:44,674 - member.py - INFO - 获取data信息----------
+2021-06-07 21:09:44,674 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'Ryan', 'name': '范玉英', 'mobile': '13390573769', 'department': [1, 2]}}
+2021-06-07 21:09:44,675 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 21:09:45,082 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:09:45,083 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 21:09:45,083 - member.py - INFO - 获取data信息----------
+2021-06-07 21:09:45,083 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/get', 'method': 'get', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA', 'userid': 'Ryan'}}
+2021-06-07 21:09:45,083 - member.py - INFO - 获取user的search的返回结果----------
+2021-06-07 21:09:45,335 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:09:45,335 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "Ryan",
+  "name": "范玉英",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "13390573769",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vccbcddfdd828fb311",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-06-07 21:36:57,358 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 21:36:57,608 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:36:57,608 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA",
+  "expires_in": 7200
+}
+2021-06-07 21:36:57,609 - member.py - INFO - 获取data信息----------
+2021-06-07 21:36:57,609 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'lisi', 'name': '李四test', 'mobile': '+86 13800000011', 'department': [1, 2]}}
+2021-06-07 21:36:57,609 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 21:36:57,962 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:36:57,962 - base_api.py - INFO - {
+  "errcode": 60104,
+  "errmsg": "mobile existed:lisi"
+}
+2021-06-07 21:36:57,966 - member.py - INFO - 获取data信息----------
+2021-06-07 21:36:57,966 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': '', 'name': '李四test', 'mobile': '+86 13800000011', 'department': [1, 2]}}
+2021-06-07 21:36:57,966 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 21:36:58,156 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:36:58,156 - base_api.py - INFO - {
+  "errcode": 40058,
+  "errmsg": "userid exceed min length 1. Invalid input invalid Request Parameter, hint: [1623073018_161_cedf985ff7cd29ea1e8d290d654997e2], from ip: , more info at https://open.work.weixin.qq.com/devtool/query?e=40058"
+}
+2021-06-07 21:36:58,160 - member.py - INFO - 获取data信息----------
+2021-06-07 21:36:58,160 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'lisi', 'name': '', 'mobile': '+86 13800000011', 'department': [1, 2]}}
+2021-06-07 21:36:58,160 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 21:36:58,350 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:36:58,350 - base_api.py - INFO - {
+  "errcode": 40058,
+  "errmsg": "name exceed min utf8 words 1. Invalid input invalid Request Parameter, hint: [1623073018_161_deb6a1730d7b29629b8d8c724192875e], from ip: , more info at https://open.work.weixin.qq.com/devtool/query?e=40058"
+}
+2021-06-07 21:36:58,354 - member.py - INFO - 获取data信息----------
+2021-06-07 21:36:58,354 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'lisi', 'name': '李四test', 'mobile': '', 'department': [1, 2]}}
+2021-06-07 21:36:58,354 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 21:36:58,661 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 21:36:58,662 - base_api.py - INFO - {
+  "errcode": 60129,
+  "errmsg": "missing mobile or email, hint: [1623073018_161_4b4ea5b3ee3e63c3adadee6dfb0b9c50], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=60129"
+}
+2021-06-07 22:06:01,897 - wework_api.py - INFO - 获取user的token--------------
+2021-06-07 22:06:02,133 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:02,134 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA",
+  "expires_in": 7200
+}
+2021-06-07 22:06:02,135 - member.py - INFO - 获取data信息----------
+2021-06-07 22:06:02,136 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'Adrian', 'name': '沈桂珍', 'mobile': '18940821849', 'department': [1, 2]}}
+2021-06-07 22:06:02,136 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 22:06:02,581 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:02,581 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 22:06:02,582 - member.py - INFO - 获取data信息----------
+2021-06-07 22:06:02,583 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/get', 'method': 'get', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA', 'userid': 'Adrian'}}
+2021-06-07 22:06:02,583 - member.py - INFO - 获取user的search的返回结果----------
+2021-06-07 22:06:02,820 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:02,822 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "Adrian",
+  "name": "沈桂珍",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "18940821849",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc6eef0a9962d1fe28",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-06-07 22:06:02,828 - member.py - INFO - 获取data信息----------
+2021-06-07 22:06:02,830 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'Donald', 'name': '季浩', 'mobile': '18069939225', 'department': [1, 2]}}
+2021-06-07 22:06:02,831 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 22:06:03,208 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:03,209 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-06-07 22:06:03,213 - member.py - INFO - 获取data信息----------
+2021-06-07 22:06:03,213 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/get', 'method': 'get', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA', 'userid': 'Donald'}}
+2021-06-07 22:06:03,214 - member.py - INFO - 获取user的search的返回结果----------
+2021-06-07 22:06:03,431 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:03,433 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "Donald",
+  "name": "季浩",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "18069939225",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc2e7279b22fd26ffe",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-06-07 22:06:03,439 - member.py - INFO - 获取data信息----------
+2021-06-07 22:06:03,440 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'lisi', 'name': '李四test', 'mobile': '+86 13800000011', 'department': [1, 2]}}
+2021-06-07 22:06:03,440 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 22:06:03,762 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:03,763 - base_api.py - INFO - {
+  "errcode": 60104,
+  "errmsg": "mobile existed:lisi"
+}
+2021-06-07 22:06:03,768 - member.py - INFO - 获取data信息----------
+2021-06-07 22:06:03,769 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': '', 'name': '李四test', 'mobile': '+86 13800000011', 'department': [1, 2]}}
+2021-06-07 22:06:03,770 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 22:06:03,958 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:03,959 - base_api.py - INFO - {
+  "errcode": 40058,
+  "errmsg": "userid exceed min length 1. Invalid input invalid Request Parameter, hint: [1623074764_161_4c0dd8802408ef2bc22e7eac4de94849], from ip: , more info at https://open.work.weixin.qq.com/devtool/query?e=40058"
+}
+2021-06-07 22:06:03,965 - member.py - INFO - 获取data信息----------
+2021-06-07 22:06:03,966 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'lisi', 'name': '', 'mobile': '+86 13800000011', 'department': [1, 2]}}
+2021-06-07 22:06:03,967 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 22:06:04,155 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:04,156 - base_api.py - INFO - {
+  "errcode": 40058,
+  "errmsg": "name exceed min utf8 words 1. Invalid input invalid Request Parameter, hint: [1623074764_161_56e74e1cf81f0b1219d520c0c2fe34a8], from ip: , more info at https://open.work.weixin.qq.com/devtool/query?e=40058"
+}
+2021-06-07 22:06:04,161 - member.py - INFO - 获取data信息----------
+2021-06-07 22:06:04,162 - member.py - INFO - {'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/create', 'method': 'post', 'params': {'access_token': 'h8njLEIE9dTxVlCQXiUmmK8fiQ-_vnEKy-nDQb6cSLO56HweWI-ehbsacgklXruQrF-zdib73njzk9qAsxM7FYX0ST9aYh9Vwlx1M-WTBMpiBf_gi4l5cX8IpgI8rWSxeUyHx3PWXS6lwFDa8jCEAg26cjDjGE3JHs3GXkMgZShG0D9fE51dLs53KXF8letwDzm2jj9FK09eqkj2qSZeAA'}, 'json': {'userid': 'lisi', 'name': '李四test', 'mobile': '', 'department': [1, 2]}}
+2021-06-07 22:06:04,163 - member.py - INFO - 获取user的add_user的返回结果----------
+2021-06-07 22:06:04,454 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:04,455 - base_api.py - INFO - {
+  "errcode": 60129,
+  "errmsg": "missing mobile or email, hint: [1623074764_161_d3089e1664e95d9b42e8d03099edf995], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=60129"
+}
+2021-06-07 22:06:04,461 - wework_api.py - INFO - 获取externalcontact的token--------------
+2021-06-07 22:06:04,716 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:04,717 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "m5QEy159qYmBWcCEAxy5WQ_oSRyfqnAhqhA0O6YaPTy81L2dyIAFrVhaJojSEvaG4G7ojuI61tz8NeHyF9d0GZaYR1ykx5BGUW8Ln5PSXBrMVTPeHa_0V_EsVRqQC_7nJFM5HO-nFNtlRzX4K6LktqJ1amviWgWhIuR1QvNhSXLa65jlKBmoZKEV1Ss5li_9274z3oozpJNf2AjOrAJ1tQ",
+  "expires_in": 7200
+}
+2021-06-07 22:06:04,718 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-07 22:06:04,930 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:04,935 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAAKKId1PFbzOSXYZjXi8TNcw",
+      "group_name": "tag_group_052001",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAYpjJ6UaPD6vGK6guBYir1Q",
+          "name": "tag_052002",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAA7AdqlrNeGJFQWPH3xArwkQ",
+      "group_name": "tag_group_052002",
+      "create_time": 1622817884,
+      "tag": [
+        {
+          "id": "etF-5ACAAAusKghdkubnRpXTmcGRBIPw",
+          "name": "tag_052003",
+          "create_time": 1622817884,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAOfQKtOMIVkmknNE6zA9CzA",
+      "group_name": "tag_group_0602001",
+      "create_time": 1622817885,
+      "tag": [
+        {
+          "id": "etF-5ACAAAYdF4mpQUdiuRlmjNfyS0pQ",
+          "name": "tag_0602001",
+          "create_time": 1622817885,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAq2264HrXdjYkFD74gHcI2Q",
+          "name": "tag_0602002",
+          "create_time": 1622817885,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAA_ntL0yeDTP-6edlGPsNFhA",
+          "name": "tag_0602003",
+          "create_time": 1622817885,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-07 22:06:05,232 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:05,233 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-06-07 22:06:05,234 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-07 22:06:05,455 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:05,456 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": []
+}
+2021-06-07 22:06:05,723 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:05,727 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAA2_mZI1IeQcsS_-Kzb6vT4w",
+    "group_name": "tag_group_052001",
+    "create_time": 1623074765,
+    "tag": [
+      {
+        "id": "etF-5ACAAAS3TNKTxWoIwbSiYToKG0Tw",
+        "name": "tag_052002",
+        "create_time": 1623074765,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-07 22:06:05,728 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-07 22:06:05,927 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:05,929 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA2_mZI1IeQcsS_-Kzb6vT4w",
+      "group_name": "tag_group_052001",
+      "create_time": 1623074765,
+      "tag": [
+        {
+          "id": "etF-5ACAAAS3TNKTxWoIwbSiYToKG0Tw",
+          "name": "tag_052002",
+          "create_time": 1623074765,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-07 22:06:06,353 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:06,355 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAAknbdt4HTNh4aHJD9eDUQ1w",
+    "group_name": "tag_group_052002",
+    "create_time": 1623074766,
+    "tag": [
+      {
+        "id": "etF-5ACAAAEFltD7JJtU5UHBSsl-ikQw",
+        "name": "tag_052003",
+        "create_time": 1623074766,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-07 22:06:06,356 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-07 22:06:06,572 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:06,573 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA2_mZI1IeQcsS_-Kzb6vT4w",
+      "group_name": "tag_group_052001",
+      "create_time": 1623074765,
+      "tag": [
+        {
+          "id": "etF-5ACAAAS3TNKTxWoIwbSiYToKG0Tw",
+          "name": "tag_052002",
+          "create_time": 1623074765,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAknbdt4HTNh4aHJD9eDUQ1w",
+      "group_name": "tag_group_052002",
+      "create_time": 1623074766,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEFltD7JJtU5UHBSsl-ikQw",
+          "name": "tag_052003",
+          "create_time": 1623074766,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-07 22:06:06,828 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:06,831 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAARota6oY9RzknlOyP3siFvg",
+    "group_name": "tag_group_0602001",
+    "create_time": 1623074766,
+    "tag": [
+      {
+        "id": "etF-5ACAAAF_Z0ZXIxnI_un6brrugecA",
+        "name": "tag_0602001",
+        "create_time": 1623074766,
+        "order": 2
+      },
+      {
+        "id": "etF-5ACAAAyMSNFSOdaHIUnyNJZS_U1w",
+        "name": "tag_0602002",
+        "create_time": 1623074766,
+        "order": 1
+      },
+      {
+        "id": "etF-5ACAAAxDxWSiZ_bOTigmhZGhMVTA",
+        "name": "tag_0602003",
+        "create_time": 1623074766,
+        "order": 3
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-07 22:06:06,832 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-07 22:06:07,027 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:07,028 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA2_mZI1IeQcsS_-Kzb6vT4w",
+      "group_name": "tag_group_052001",
+      "create_time": 1623074765,
+      "tag": [
+        {
+          "id": "etF-5ACAAAS3TNKTxWoIwbSiYToKG0Tw",
+          "name": "tag_052002",
+          "create_time": 1623074765,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAknbdt4HTNh4aHJD9eDUQ1w",
+      "group_name": "tag_group_052002",
+      "create_time": 1623074766,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEFltD7JJtU5UHBSsl-ikQw",
+          "name": "tag_052003",
+          "create_time": 1623074766,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAARota6oY9RzknlOyP3siFvg",
+      "group_name": "tag_group_0602001",
+      "create_time": 1623074766,
+      "tag": [
+        {
+          "id": "etF-5ACAAAF_Z0ZXIxnI_un6brrugecA",
+          "name": "tag_0602001",
+          "create_time": 1623074766,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAyMSNFSOdaHIUnyNJZS_U1w",
+          "name": "tag_0602002",
+          "create_time": 1623074766,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAxDxWSiZ_bOTigmhZGhMVTA",
+          "name": "tag_0602003",
+          "create_time": 1623074766,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-07 22:06:07,273 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:07,275 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etF-5ACAAABFK5EO29z-y34mOvCnxHCQ",
+    "group_name": "tag_group_0602011",
+    "create_time": 1623074767,
+    "tag": [
+      {
+        "id": "etF-5ACAAAv4AOTpcRqUoNJZ0qU4Xj-Q",
+        "name": "tag_0602011",
+        "create_time": 1623074767,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-06-07 22:06:07,276 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-07 22:06:07,475 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:07,476 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA2_mZI1IeQcsS_-Kzb6vT4w",
+      "group_name": "tag_group_052001",
+      "create_time": 1623074765,
+      "tag": [
+        {
+          "id": "etF-5ACAAAS3TNKTxWoIwbSiYToKG0Tw",
+          "name": "tag_052002",
+          "create_time": 1623074765,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAknbdt4HTNh4aHJD9eDUQ1w",
+      "group_name": "tag_group_052002",
+      "create_time": 1623074766,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEFltD7JJtU5UHBSsl-ikQw",
+          "name": "tag_052003",
+          "create_time": 1623074766,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAARota6oY9RzknlOyP3siFvg",
+      "group_name": "tag_group_0602001",
+      "create_time": 1623074766,
+      "tag": [
+        {
+          "id": "etF-5ACAAAF_Z0ZXIxnI_un6brrugecA",
+          "name": "tag_0602001",
+          "create_time": 1623074766,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAyMSNFSOdaHIUnyNJZS_U1w",
+          "name": "tag_0602002",
+          "create_time": 1623074766,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAxDxWSiZ_bOTigmhZGhMVTA",
+          "name": "tag_0602003",
+          "create_time": 1623074766,
+          "order": 3
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAABFK5EO29z-y34mOvCnxHCQ",
+      "group_name": "tag_group_0602011",
+      "create_time": 1623074767,
+      "tag": [
+        {
+          "id": "etF-5ACAAAv4AOTpcRqUoNJZ0qU4Xj-Q",
+          "name": "tag_0602011",
+          "create_time": 1623074767,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-07 22:06:07,753 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:07,753 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok. Warning: wrong json format. "
+}
+2021-06-07 22:06:07,754 - tag_api.py - INFO - 获取externalcontact的tag的search的返回结果----------
+2021-06-07 22:06:07,971 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:07,972 - base_api.py - INFO - {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etF-5ACAAA2_mZI1IeQcsS_-Kzb6vT4w",
+      "group_name": "tag_group_052001",
+      "create_time": 1623074765,
+      "tag": [
+        {
+          "id": "etF-5ACAAAS3TNKTxWoIwbSiYToKG0Tw",
+          "name": "tag_052002",
+          "create_time": 1623074765,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAAknbdt4HTNh4aHJD9eDUQ1w",
+      "group_name": "tag_group_052002",
+      "create_time": 1623074766,
+      "tag": [
+        {
+          "id": "etF-5ACAAAEFltD7JJtU5UHBSsl-ikQw",
+          "name": "tag_052003",
+          "create_time": 1623074766,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etF-5ACAAARota6oY9RzknlOyP3siFvg",
+      "group_name": "tag_group_0602001",
+      "create_time": 1623074766,
+      "tag": [
+        {
+          "id": "etF-5ACAAAF_Z0ZXIxnI_un6brrugecA",
+          "name": "tag_0602001",
+          "create_time": 1623074766,
+          "order": 2
+        },
+        {
+          "id": "etF-5ACAAAyMSNFSOdaHIUnyNJZS_U1w",
+          "name": "tag_0602002",
+          "create_time": 1623074766,
+          "order": 1
+        },
+        {
+          "id": "etF-5ACAAAxDxWSiZ_bOTigmhZGhMVTA",
+          "name": "tag_0602003",
+          "create_time": 1623074766,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-06-07 22:06:08,208 - base_api.py - INFO - 开始打印用例返回结果-----------------
+2021-06-07 22:06:08,211 - base_api.py - INFO - {
+  "errcode": 40068,
+  "errmsg": "invalid tagid, hint: [1623074768_205_7a057e3c59c59019f93438031d1f31ec], from ip: 101.71.245.110, more info at https://open.work.weixin.qq.com/devtool/query?e=40068"
+}

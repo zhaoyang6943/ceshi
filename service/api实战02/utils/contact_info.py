@@ -11,12 +11,14 @@ class ContactInfo:
         self.faker = Faker('zh-CN')
 
     def get_name(self):
+        self.faker = Faker('zh-CN')
         name = self.faker.name()
         return name
 
     def get_phonenum(self):
+        self.faker = Faker('zh-CN')
         phonenum = self.faker.phone_number()
-        print("+86 " + phonenum)
+
         return phonenum
 
     def get_english_name(self):

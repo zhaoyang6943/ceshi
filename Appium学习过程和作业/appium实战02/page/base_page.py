@@ -12,33 +12,20 @@ from selenium.common.exceptions import NoSuchElementException
 import logging
 
 logger = logging.getLogger(__name__)
-logger.setLevel(level = logging.INFO)
-handler = logging.FileHandler("../logs/info.log",encoding='utf-8')
+logger.setLevel(level=logging.INFO)
+handler = logging.FileHandler("../logs/info.log", encoding='utf-8')
 handler.setLevel(logging.INFO)
 formatter = logging.Formatter('%(asctime)s - %(filename)s - %(levelname)s - %(message)s')
 handler.setFormatter(formatter)
 
-
 logger.addHandler(handler)
 
-# logging.basicConfig(
-#             # 日志级别
-#             level=logging.INFO,
-#             # 日志格式
-#             # 时间、代码所在文件名、代码行号、日志级别名字、日志信息
-#             format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
-#             # 打印日志的时间
-#             datefmt='%a, %d %b %Y %H:%M:%S',
-#             # 日志文件存放的目录（目录必须存在）及日志文件名
-#             filename='report.log',
-#             # 打开日志文件的方式
-#             filemode='w'
-#         )
+
 
 
 class BasePage:
 
-    def __init__(self, driver: WebDriver=None):
+    def __init__(self, driver: WebDriver = None):
         # 初始化driver
         self.driver = driver
 

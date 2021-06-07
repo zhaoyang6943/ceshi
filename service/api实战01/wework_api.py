@@ -40,7 +40,7 @@ class WeWork:
                           params={"access_token": self.token},
                           json={
                               "group_name": group_name,
-                              "tag": [
+                              "externalcontact": [
                                   {"name": tag_name}
                               ]
                           }

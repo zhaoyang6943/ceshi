@@ -55,7 +55,7 @@ class TestWeWork:
                           params={"access_token": self.token},
                           json={
                               "group_name": "tag_group_00001",
-                              "tag": [
+                              "externalcontact": [
                                   {"name": "tag0001"}
                               ]
                           }

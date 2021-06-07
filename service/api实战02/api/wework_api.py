@@ -33,7 +33,7 @@ class WeWork(Base):
                 "corpsecret": "p3tMp8-8U0jMCH4exb-i72ltKMoyN4HwXVb0LsHacoI"
             }
         }
-
+        self.logging.info("获取externalcontact的token--------------")
         r = self.request(data)
         self.token = r.json()['access_token']
         assert r.status_code == 200
@@ -41,4 +41,19 @@ class WeWork(Base):
 
         # print(r.json())  # json，没有处理，返回没有处理的类似json格式的数据；
         # print(r.json()['access_token'])
+
+
+    def get_token_user(self):
+        data = {
+            'url': 'https://qyapi.weixin.qq.com/cgi-bin/gettoken',
+            'method': 'get',
+            'params': {
+                "corpid": "wwb2e5afaafb9d6136",
+                "corpsecret": "ibVVP3rYxbsOMb1bGCM08pBGOmhlyPxt5xWeeY1TULU"
+            }
+        }
+        self.logging.info("获取user的token--------------")
+        r = self.request(data)
+        self.user_token = r.json()['access_token']
+        assert r.status_code == 200
 
